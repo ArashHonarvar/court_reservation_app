@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.stacktips.view.CustomCalendarView
+    android:id="@+id/calendar_view"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="16dp"
+    android:background="@drawable/background_rounded"
+    app:calendarBackgroundColor="@color/background"
+    app:calendarTitleTextColor="@color/text"
+    app:currentDayOfMonthColor="@color/button"
+    app:dayOfMonthTextColor="@color/text"
+    app:dayOfWeekTextColor="@color/text"
+    app:disabledDayBackgroundColor="@color/background"
+    app:disabledDayTextColor="@color/text"
+    app:selectedDayBackgroundColor="@color/background"
+    app:selectedDayTextColor="@color/text"
+    app:titleLayoutBackgroundColor="@color/background"
+    app:weekLayoutBackgroundColor="@color/background" />

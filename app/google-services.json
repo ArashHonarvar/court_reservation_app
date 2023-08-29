@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "663796909686",
+    "project_id": "reservationapp-d9f8e",
+    "storage_bucket": "reservationapp-d9f8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663796909686:android:c316d861a5f024cb7e0157",
+        "android_client_info": {
+          "package_name": "it.polito.mad.reservationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663796909686-40mhgcujqthj6nv39t63b6frnckummu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.polito.mad.reservationapp",
+            "certificate_hash": "80e001aa615500725a05bd6f793acd5b35138397"
+          }
+        },
+        {
+          "client_id": "663796909686-u6q5d9u90m1ra0k1v4jg68hh3earg4ut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.polito.mad.reservationapp",
+            "certificate_hash": "a03a4eb5ca9f7e035d28f411755b5bf3af6b0758"
+          }
+        },
+        {
+          "client_id": "663796909686-uqol77cul5pc8fots5gsipac10e2j454.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it.polito.mad.reservationapp",
+            "certificate_hash": "3a9c9434e473f972e59d50d31180ab9d6384f02d"
+          }
+        },
+        {
+          "client_id": "663796909686-jedg5ck0iummkbt09unvi7ra34kpavjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH4dWd4lpebpiPeYx7wHWddlX3dpsHIPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663796909686-5upbuamf9b46c5hk7llh579jeiv8jqvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

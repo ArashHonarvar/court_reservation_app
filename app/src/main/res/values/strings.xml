@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Duchi Sport</string>
+    <string name="title_activity_edit_reservation">EditReservation</string>
+    <string name="firebase_client_id">663796909686-jedg5ck0iummkbt09unvi7ra34kpavjg.apps.googleusercontent.com</string>
+</resources>
